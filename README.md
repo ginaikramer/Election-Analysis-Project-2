@@ -54,3 +54,12 @@ The updated analysis of the election has been saved in [Election Analysis Report
   - This picture captures the output summarized above:
  ![Election Analysis Terminal Output](/analysis/Election_Results_Terminal_Output.png)
 ## Challenge Election Audit Summary
+I feel honored that the Colorado Board of Elections trusted me with this project to calculate the results of one of Colorado's local congressional elections. This project not only allowed me to quickly process the results of the local election, it allowed me to create a repeatable process that can be used to caculate and report the results for any election in Colorado. 
+
+Therefore, I'd like to propose some additional work to modify this process, that will greatly benefit the board with significant time savings for reporting the outcomes of all of Colorado's elections.  
+
+I am proposing to modify the current process to: 
+  - Allow members of the Board to initiate this process with a click of a button
+  - Allow members of the Board to select which election results data they'd like to process
+ 
+Thanks in advance for your consideration.  
