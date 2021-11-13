@@ -29,7 +29,7 @@ The Colorado Board of Elections employee gave me additional tasks to perform in 
   8. Calculate the percentage of votes each county received.
   9. Determine the county with the higest voter turnout.
 ## Challenge Election Audit Results
-The updated analysis of the election shows that:
+The updated analysis of the election has been saved in [Election Analysis Report](/analysis/election_analysis.txt) and shows that:
   - There were 369,711 votes cast in the election.
   - The counties involved in this election included:
     - Jefferson County
@@ -51,4 +51,6 @@ The updated analysis of the election shows that:
     - Doane received 3.1% of the vote and 11,606 number of votes.
   - The winner of the election was:
     - Diana DeGette, who received 73.8% of the vote and 272,892 number of votes.
+  - This picture captures the output summarized above:
+ ![Election Analysis Terminal Output](/analysis/Election_Results_Terminal_Output.png)
 ## Challenge Election Audit Summary
